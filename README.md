@@ -4,7 +4,7 @@ Soy ingeniero informático dedicado al desarrollo de software desde el 2011.
 
 Cree un canal de youtube para compartir conocimiento y crear aplicaciones interesantes.
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIwCwbu4A4DPgo3YIGFilyQ?style=social)](https://youtube.com/@tutomas?sub_confirmation=1)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIwCwbu4A4DPgo3YIGFilyQ)
 
 ## Algunos vídeos en YouTube:
 
