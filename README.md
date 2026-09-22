@@ -4,8 +4,10 @@ Soy ingeniero informático dedicado al desarrollo de software desde el 2011.
 
 Cree un canal de youtube para compartir conocimiento y crear aplicaciones interesantes.
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIwCwbu4A4DPgo3YIGFilyQ)](https://youtube.com/@tutomas?sub_confirmation=1)
-
+<a href="https://www.youtube.com/@emprendecoders?sub_confirmation=1)" target="blank">
+   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="midudev" height="23px" width="33px" />
+</a>
+  
 ## Algunos vídeos en YouTube:
 
 <table style="width:100%">
